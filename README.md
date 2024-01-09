@@ -1,7 +1,7 @@
 # Diabetes in Brazil: The Nestlé Factor
 A quantitative research project exploring the impact of multinational food and drink processing conglomerate corporation, Nestlé on the prevalence of diabetes in Brazil. The project is presented in the form of a website, with different webpages accounting for different sections of the research project. In order to access the website, please refer to the link below:
 
-https://yuenyeng08.wixsite.com/basc0005-quantitativ/about-6
+https://yuenyeng08.wixsite.com/basc0005-quantitativ
 
 All data visualisations utilised on the website were produced using Python.
 
